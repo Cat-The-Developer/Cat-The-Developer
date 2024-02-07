@@ -1,8 +1,7 @@
 # 💫 About Me:
 
 **🌱 I’m currently learning:**
-
-![C](https://img.shields.io/badge/c-%231572B6.svg?style=for-the-badge&logo=c&logoColor=original)
+nothing
 
 **👀 looking forward to become expert in web development**
 
